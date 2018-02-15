@@ -4,11 +4,13 @@ body{
 
 #learn h1{
     text-align: center;
+    font-weight: bold;
 }
 
 #howitworks h2{
     text-align: center;
-    padding-top: 10px;
+    padding-top: 40px;
+    font-weight: bold;
 }
 
 .panel p{
@@ -55,6 +57,13 @@ body{
 #courses h2{
     text-align: center;
     padding-top: 40px;
+    font-weight: bold;
+}
+
+#contact h2{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
 }
 
 #myFooter{
