@@ -1,60 +1,60 @@
 body{
-	padding-top: 40px;
+    padding-top: 40px;
 }
 
 #learn h1{
-	text-align: center;
+    text-align: center;
 }
 
 #howitworks h2{
-	text-align: center;
-	padding-top: 10px;
+    text-align: center;
+    padding-top: 10px;
 }
 
 .panel p{
-	padding-top: 10px;
-	font-size: 15px;
+    padding-top: 10px;
+    font-size: 15px;
 }
 
 .panel-title{
-	font-weight: bold;
+    font-weight: bold;
 }
 
 #features{
-	padding-top: 10px;
+    padding-top: 10px;
 }
 
 #myCarousel {
-	margin-top: 60px;
+    margin-top: 60px;
 }
 
 .carousel-caption {
-	font-size: 24px;
+    font-size: 24px;
 }
 
 .carousel-caption h4 {
-	font-size: 32px;
+    font-size: 32px;
 }
 #myCarousel{
-	margin: 0px;
-	padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 #myCarousel .item { 
-	height: 400px; 
+    height: 400px; 
 }
 
 #myCarousel .item img{
-	width: 100%;
+    width: 100%;
 }
 
 .carousel-caption h4{
-	color: black;
+    color: black;
 }
 
 #courses h2{
-	text-align: center;
-	padding-top: 40px;
+    text-align: center;
+    padding-top: 40px;
 }
 
 #myFooter{
